@@ -1,0 +1,11 @@
+PUT http://webdevcourse.local/api/user/add HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 1|tu0zsaZJnGpw36CZQsJM1rDgWDQyMWto9iva3Kvc
+
+{
+    "name": "user",
+    "email": "user@mail.ru",
+    "password": "user1",
+    "status": "User"
+}

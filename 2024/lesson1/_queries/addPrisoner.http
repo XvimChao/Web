@@ -1,0 +1,37 @@
+POST http://webdevcourse.local/api/prisoner HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 1|tu0zsaZJnGpw36CZQsJM1rDgWDQyMWto9iva3Kvc
+
+
+{
+    "case_number": "1411/с",
+    "surname":"БАБАРЫКИН",
+    "first_name": "Петр",
+    "middle_name": "Михайлович",
+    "nickname": "БОБОРЫКИН",
+    "birth_year": "asd",
+    "birth_place": "г. Киев",
+    "nationality": null,
+    "party_affiliation": null,
+    "education_level": null,
+    "residence_location": "БМАССР, населенный пункт Улан-Удэ",
+    "marital_status": "Женат, 2 детей",
+    "occupation": null,
+    "workplace": "Музыкант, Госфилармония",
+    "arrest_day": 20,
+    "arrest_month": 4,
+    "arrest_year": 1939,
+    "court_body": "Верховным судом БМАССР",
+    "verdict_day": 3,
+    "verdict_month": 9,
+    "verdict_year": 1939,
+    "articles": "58-10 ч.1",
+    "decision": "Оправдан",
+    "rehabilitation_day": 8,
+    "rehabilitation_month": 4,
+    "rehabilitation_year": 1997,
+    "rehabilitation_authority": "Прокуратурой РБ",
+    "memory_book_volume_number": 2,
+    "memory_book_page_number": 1
+}

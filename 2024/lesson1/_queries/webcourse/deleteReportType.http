@@ -1,0 +1,6 @@
+GET http://webdevcourse.local/api/report_types/delete/7 HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 1|yAM9i0fni246H7vr6K7f1j9d8UwyHWhZy1wo0IZs 
+
+

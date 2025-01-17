@@ -1,0 +1,7 @@
+PUT http://webdevcourse.local/api/report_types/add HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 2|DUcjw74dFmlsA1uI5GJawCzfZ72Hn4T5vSJ497Pj
+
+
+{"title":"Сбит дорожный знак", "description":"Вандальные граффити в городе Улан-Удэ", "tag":"graffiti"}

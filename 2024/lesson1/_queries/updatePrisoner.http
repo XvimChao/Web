@@ -1,0 +1,36 @@
+PUT http://webdevcourse.local/api/prisoner/4 HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 1|tu0zsaZJnGpw36CZQsJM1rDgWDQyMWto9iva3Kvc
+
+{
+    "case_number": 1743,
+    "surname":"АЮРОВ",
+    "first_name": "Чойжо",
+    "middle_name": "",
+    "nickname": "",
+    "birth_year": 1878,
+    "birth_place": "БМР, Селенгинский, населенный пункт Бургултай",
+    "nationality": "",
+    "party_affiliation": "",
+    "education_level": "",
+    "residence_location": "Гэгэтуйский дацан",
+    "marital_status": "",
+    "occupation": "Лама",
+    "workplace": "",
+    "arrest_day": 20,
+    "arrest_month": 8,
+    "arrest_year": 1933,
+    "court_body": "Тройкой ПП ОГПУ ВСК",
+    "verdict_day": 20,
+    "verdict_month": 9,
+    "verdict_year": 1933,
+    "articles": "58-10",
+    "decision": "Выслан",
+    "rehabilitation_day": 8,
+    "rehabilitation_month": 5,
+    "rehabilitation_year": 1997,
+    "rehabilitation_authority": "Прокуратурой РБ",
+    "memory_book_volume_number": 2,
+    "memory_book_page_number": 1
+}

@@ -1,0 +1,12 @@
+POST http://webdevcourse.local/sanctum/token HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email":"cat@bsu.ru",
+    "password":"87654321", 
+    "device_name":"CatPhone"
+}
+
+#3|uv0nxKVVKLO1toW4rtImy4EyaU7x6VItyQA0GTjk - User
+#1|tu0zsaZJnGpw36CZQsJM1rDgWDQyMWto9iva3Kvc - Administrator

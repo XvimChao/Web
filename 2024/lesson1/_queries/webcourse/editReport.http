@@ -1,0 +1,7 @@
+PUT http://webdevcourse.local/api/report/edit HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 1|yAM9i0fni246H7vr6K7f1j9d8UwyHWhZy1wo0IZs
+
+
+{"report_id":10,"title":"Мусор на Гагарина!","content":"Заполненный мусорный контейнер", "location":"Рядом с поликлиникой №6", "longitude":107.2022089, "latitude":56.3, "img_link":"test.png", "report_type_id":2}

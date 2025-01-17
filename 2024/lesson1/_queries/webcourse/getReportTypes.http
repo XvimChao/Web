@@ -1,0 +1,3 @@
+GET http://webdevcourse.local/api/report_types_all/ HTTP/1.1
+Authorization: Bearer 1|yAM9i0fni246H7vr6K7f1j9d8UwyHWhZy1wo0IZs
+Content-Type: application/json

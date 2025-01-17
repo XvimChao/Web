@@ -1,0 +1,7 @@
+POST http://webdevcourse.local/api/comment HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 1|tu0zsaZJnGpw36CZQsJM1rDgWDQyMWto9iva3Kvc
+
+
+{"title":"Давно ","content":"КУДА!?", "report_id":1}

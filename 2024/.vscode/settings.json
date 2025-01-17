@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "Test",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Test",
+            "database": "arddb_pplh",
+            "username": "ardan",
+            "password": "IgrjsegKgHZ8WR84zQyWAe92Az3Q8ooT",
+            "connectionTimeout": 30
+        }
+    ]
+}
